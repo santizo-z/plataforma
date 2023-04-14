@@ -1,0 +1,36 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+}
+html, body{
+    font-size: 10px;
+    max-width: 375px;
+    font-family: 'Inter', sans-serif;
+}
+:root{
+    -color1: rgb #70DEB1;
+    -color2: rbg #333333;
+    -color3: rbg #6B6B6B;
+    -color4: rbg #FFC147;
+    -color5: rbg #F4F5FA;
+    -color6: rbg #707EFF;
+    -color7: rbg #707EFF;
+    -color8: rbg #63E9B0;
+    -color9: rbg #EF5454;
+    -color10: rbg #FF8282;
+    -color11: rbg #369FFF;
+    -color12: rbg #FFC046;
+    -color13: rbg #85D062;
+    -color14: rbg #ABDFAF;
+    -color15: rbg #D4D8E8; 
+    -color16: rbg #FF7A00;
+    -color17: rbg #343646;
+    -color18: rbg #0E0E0F;
+    -color19: rbg #FFB4B4;
+    -color20: rbg #FF6F6F;
+    -color21: rbg #FFE600;
+    -color22: rbg #237BFF;
+    -color23: rbg #f5f5f5;
+}
