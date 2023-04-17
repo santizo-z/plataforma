@@ -1,0 +1,30 @@
+body{
+    width: 10rem;
+    height: 10rem;
+    background-color: rgba(242, 248, 243, 1);
+
+}
+.caja1{
+    height: 20rem;
+    width: 37.6rem;
+    background-color: var(---color8);
+    border-top-right-radius: 3rem;
+    border-top-left-radius: 3rem;
+}
+.cabeza{
+    padding-top: 3rem;
+    display: flex;
+    
+}
+.buscador{
+    width: 57%;
+    height: 4rem;
+    background-color: var(---color23) ;
+    border-radius: 3rem;
+    margin-left: 2.5rem;
+}
+.A{
+    width: 27%;
+    height: 4rem;
+    background-color: blueviolet;
+}
