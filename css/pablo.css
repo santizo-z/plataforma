@@ -1,10 +1,12 @@
 html {
     max-width: 375px;
     display: block;
+    border: 2px solid var(---color1);
+    border-radius: 18px;
 }
 
 .encabezado {
-    background-color: #ffe600;
+    background-color: var(---color21);
     display: block;
     position: relative;
 }
@@ -28,19 +30,26 @@ html {
     margin-top: 2rem;
 }
 
+.perfil > .img2 {
+    margin-top: 2.5rem;
+    display: block;
+    border: 2px;
+    height: 2.3rem;
+    margin-left: auto;
+}
+
 .textos > h2 {
     font-size: 1.5rem;
 }
 
 .textos > p {
     font-size: 1.2rem;
-    color: gray;
+    color:var(---color3);
 }
 
 .nums {
     margin-top: 0.5rem;
     display: block;
-
 }
 .nums_txt {
     list-style: none;
@@ -64,6 +73,7 @@ html {
 .nums_nums > li {
     padding: 0.5rem 2.6rem;
     font-size: 1rem;
+    
 }
 
 .medio {
@@ -73,6 +83,7 @@ html {
     width: 100%;
     border-radius: 2rem;
     height: 10rem;
+    background-color: var(---color23);
 }
 
 .letras {
@@ -80,6 +91,7 @@ html {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    list-style: none;
 }
 
 .indice {
