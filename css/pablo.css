@@ -1,14 +1,19 @@
 html {
-    max-width: 375px;
     display: block;
     border: 2px solid var(---color1);
     border-radius: 18px;
 }
 
+header {
+    padding: 1rem 1rem;
+    flex-wrap: wrap;
+    display: flex;
+}
 .encabezado {
     background-color: var(---color21);
     display: block;
     position: relative;
+    height: 25rem;
 }
 
 .perfil {
@@ -77,13 +82,24 @@ html {
 }
 
 .medio {
-    position: absolute;
     border: 2px solid black;
     display: block;
-    width: 100%;
+    width: 90%;
     border-radius: 2rem;
     height: 10rem;
     background-color: var(---color23);
+
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -50px;
+    margin: auto;
+}
+
+.medio > h1 {
+    display: block;
+    margin-left: 1.5rem;
+    margin-top: 1.5rem;
 }
 
 .letras {
