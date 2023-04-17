@@ -8,9 +8,11 @@ html, body{
     font-size: 10px;
     max-width: 375px;
     font-family: 'Inter', sans-serif;
+    
 }
 
 :root{
+<<<<<<< HEAD
     -color1: rgb #70DEB1;
     -color2: rbg #333333;
     -color3: rbg #6B6B6B;
@@ -34,4 +36,28 @@ html, body{
     -color21: rbg #FFE600;
     -color22: rbg #237BFF;
     -color23: rbg #f5f5f5;
+=======
+    ---color1: rgb(255, 87, 51);
+    ---color2: rgb(51, 51, 51);
+    ---color3: rgb(107, 107, 107);
+    ---color4: rgb(255, 193, 71);
+    ---color5: rgb(244, 245, 250);
+    ---color6: rgb(112, 126, 255);
+    ---color8: rgb(99, 233, 176);
+    ---color9: rgb(239, 84, 84);
+    ---color10:rgb(255, 130, 130);
+    ---color11: rgb(54, 159, 255);
+    ---color12: rgb(255, 192, 70);
+    ---color13: rgb(133, 208, 98);
+    ---color14: rgb(171, 223, 175);
+    ---color15: rgb(212, 216, 232); 
+    ---color16: rgb(255, 122, 0);
+    ---color17: rgb(52, 54, 70);
+    ---color18: rgb(14, 14, 15);
+    ---color19: rgb(255, 180, 180);
+    ---color20: rgb(255, 111, 111);
+    ---color21: rgb(255, 230, 0);
+    ---color22: rgb(35, 123, 255);
+    ---color23: rgb(245, 245, 245);
+>>>>>>> 07514f4d0e7667cc02d7c8321e07128c42693334
 }
