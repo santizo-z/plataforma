@@ -9,6 +9,7 @@ html, body{
     max-width: 375px;
     font-family: 'Inter', sans-serif;
 }
+
 :root{
     -color1: rgb #70DEB1;
     -color2: rbg #333333;
@@ -28,7 +29,7 @@ html, body{
     -color16: rbg #FF7A00;
     -color17: rbg #343646;
     -color18: rbg #0E0E0F;
-    -color19: rbg #FFB4B4;
+    ---color19: rbg #FFB4B4;
     -color20: rbg #FF6F6F;
     -color21: rbg #FFE600;
     -color22: rbg #237BFF;
