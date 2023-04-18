@@ -1,19 +1,30 @@
-html {
-    display: block;
-    border: 2px solid var(---color1);
-    border-radius: 18px;
-}
-
-header {
-    padding: 1rem 1rem;
-    flex-wrap: wrap;
-    display: flex;
-}
 .encabezado {
     background-color: var(---color21);
     display: block;
     position: relative;
-    height: 25rem;
+    height: 29rem;
+}
+
+header {
+    padding-top: 4rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
+}
+
+.flecha > img {
+    height: 2.3rem;
+}
+
+.flechas2 > img {
+    height: 2.3rem;
+    margin-left: 15rem;
+}
+
+.flechas3 > img {
+    height: 2.3rem;
 }
 
 .perfil {
@@ -111,6 +122,44 @@ header {
 }
 
 .indice {
-    margin-top: 8rem;
+    display: block;
+    margin-top: 6.5rem;
     background-color: aqua;
+}
+
+.viñeta1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-size: 1.5rem;
+}
+
+.viñeta1 > h1 {
+    display: flex;
+    color: var(---color21);
+    font-size: 2rem;
+}
+.viñeta1 > h3 {
+    margin: 0rem 2rem
+}
+
+.viñeta1 > p {
+    margin: 0rem 2rem;
+    color: var(---color3);
+    font-weight: 600;
+}
+
+.viñeta2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 2rem;
+}
+
+.viñeta2 > h3 {
+    margin: 0rem 2rem
+}
+
+.viñeta2 > p {
+     margin: 0rem 2rem;
 }
