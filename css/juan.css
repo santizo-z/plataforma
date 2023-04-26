@@ -1,0 +1,99 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+}
+html, body{
+    font-size: 10px;
+    max-width: 375px;
+    font-family: 'Inter', sans-serif;
+}
+.flecha{
+    font-size: 25px;
+   
+    position: absolute;
+    left: 8%;
+    top: 6%;
+}
+.texto1{
+    width: 364px;
+    height: 73px;
+    font-size: 25px;
+    
+    position: absolute;
+    left: 32%;
+    top: 40rem;
+}
+.texto2{
+
+    font-size: 15px;
+
+    position: absolute;
+    left: 46%;
+    top: 44rem;
+}
+.n1{
+    font-size: 30px;
+
+    position: absolute;
+
+    left: 8%;
+    top: 60rem;
+}
+.t1{
+    font-size: 20px;
+
+    position: absolute;
+
+    left: 8%;
+    top: 65rem;
+}
+.n2{
+    font-size: 30px;
+
+    position: absolute;
+
+    left: 35%;
+    top: 60rem;
+}
+.t2{
+    font-size: 20px;
+
+    position: absolute;
+
+    left: 35%;
+    top: 65rem;
+}
+.n3{
+    font-size: 30px;
+    position: absolute;
+
+    left: 57%;
+    top: 60rem;
+}
+.t3{
+    font-size: 20px;
+    position: absolute;
+
+    left: 57%;
+    top: 65rem;
+}
+.n4{
+    font-size: 30px;
+    position: absolute;
+
+    left: 79%;
+    top: 60rem;
+}
+.t4{
+    font-size: 20px;
+    position: absolute;
+
+    left: 79%;
+    top: 65rem;
+}
+.rueda{
+    position: absolute;
+    left: 100%;
+}
