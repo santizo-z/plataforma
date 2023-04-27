@@ -2,23 +2,23 @@
     position: absolute;
     width: 247px;
     height: 47px;
-    left: 550px;
-    top: 49px;
+    left: 72px;
+    top: 90px;
 
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Inter', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-weight: 500;
-    font-size: 36px;
+    font-size: 30px;
     line-height: 42px; 
 }
 .caja{
     box-sizing: border-box;
     position: absolute;
-    width: 343px;
-    height: 453px;
-    left: calc(47% - 343px/2 - 0.5px);
-    top: calc(50% - 453px/2 + 0.5px);
+    width: 250px;
+    height: 300px;
+    left: calc(47% - 285px/2 - 0.5px);
+    top: calc(50% - 400px/2 + 0.5px);
 
     background: #FFFFFF;
     border: 1px solid #302f2f;
@@ -86,8 +86,8 @@
     position: absolute;
     width: 163px;
     height: 45px;
-    left: 93px;
-    top: 345px;
+    left: 50px;
+    top: 200px;
 
 /* principal */
 
