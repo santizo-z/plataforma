@@ -97,3 +97,9 @@ html, body{
     position: absolute;
     left: 100%;
 }
+.t5{
+    font-size: 15px;
+    position: absolute;
+    top: 75rem;
+    left: 40px;
+}
