@@ -6,20 +6,31 @@ main{
     border-radius: 3rem;
     background-color: white;
     margin-left: 50rem;
+    margin-top: 3rem;
 }
+.mainimg{
+    display: flex;
+    flex-direction: row;
+    background-image:url(/iconos-alex/ico-claudia/luna.png);
+    width: 35rem;
+    height: 20rem;
+    
+}
+
 .sec{
     display: flex;
     flex-direction: row;
-    padding-top: 5rem;
+    
 }
 .imagen{
+    
     width: 10rem;
     height: 10rem;
     border-radius: 1rem;
-    margin: 5rem 2rem 0 3rem;
+    margin: -15rem 2rem 0 3rem;
 }
 .text{
-   margin-top: 8rem;    
+    margin-top: -7rem;    
    text-align: justify;
    font-size: 2rem;
 } 
@@ -165,9 +176,10 @@ main{
 }
 .linea{
     width: 5rem;
-    height: 1rem;
+    height: 0.8rem;
     margin-left: 30rem;
     margin-top: 2rem;
+    margin-bottom: 1.5rem;
 }
 .titu6{
     margin-top: 1rem;    
