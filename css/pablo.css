@@ -1,0 +1,88 @@
+html {
+    max-width: 375px;
+    display: block;
+}
+
+.encabezado {
+    background-color: #ffe600;
+    display: block;
+    position: relative;
+}
+
+.perfil {
+    padding: 2rem 2rem;
+    flex-wrap: wrap;
+    display: flex;
+    height: 11rem;
+}
+
+.perfil > .img1 {
+    display: block;
+    border: 2px;
+    border-radius: 70px;
+    height: 8rem;
+}
+
+.perfil > .textos {
+    margin: 0rem 2rem;
+    margin-top: 2rem;
+}
+
+.textos > h2 {
+    font-size: 1.5rem;
+}
+
+.textos > p {
+    font-size: 1.2rem;
+    color: gray;
+}
+
+.nums {
+    margin-top: 0.5rem;
+    display: block;
+
+}
+.nums_txt {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.nums_txt > li {
+    padding: 0.5rem 2.5rem;
+    font-size: 1.5rem;
+    font-weight: 700;
+}
+.nums_nums {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: auto;
+}
+
+.nums_nums > li {
+    padding: 0.5rem 2.6rem;
+    font-size: 1rem;
+}
+
+.medio {
+    position: absolute;
+    border: 2px solid black;
+    display: block;
+    width: 100%;
+    border-radius: 2rem;
+    height: 10rem;
+}
+
+.letras {
+    margin-top: 2rem;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.indice {
+    margin-top: 8rem;
+    background-color: aqua;
+}

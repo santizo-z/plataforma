@@ -1,0 +1,162 @@
+main{
+    width: 375px;
+    border-radius: 3rem;
+    background-color: aquamarine;
+    margin-left: 50rem;
+}
+.sec{
+    display: flex;
+    flex-direction: row;
+    padding-top: 5rem;
+}
+.imagen{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 1rem;
+    margin: 5rem 0 0 3rem;
+}
+.text{
+   background-color: blue;
+   margin-top: 6.5rem;    
+   text-align: justify;
+   font-size: 2rem;
+} 
+.iid{
+    text-align: left;
+    color: rgba(148, 148, 136, 0.767);
+}
+.lapiz{
+    width: 1.5rem;
+    height: 1.5rem;
+}
+/**/
+.list{
+    display: flex;
+    flex-direction: row;
+    padding-top: 5rem;
+}
+.ico1{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 1rem;
+    margin: 0 1rem 0 3rem;
+}
+.titu1{
+    background-color: blue;
+    margin-top: 1rem;    
+    text-align: justify;
+    font-size: 2rem;
+}
+
+.ico2{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 1rem;
+    margin: 0 1rem 0 3rem;
+}
+.titu2{
+   background-color: blue;
+    margin-top: 1rem;    
+    text-align: justify;
+    font-size: 2rem;
+}
+
+.ico3{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 1rem;
+    margin: 0 1rem 0 3rem;
+}
+.titu3{
+    background-color: blue;
+    margin-top: 1rem;    
+    text-align: justify;
+    font-size: 2rem;
+}
+
+.ico4{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 1rem;
+    margin: 0 1rem 0 3rem;
+}
+.titu4{
+    background-color: blue;
+    margin-top: 1rem;    
+    text-align: justify;
+    font-size: 2rem;
+}
+
+
+.ico5{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 1rem;
+    margin: 0 1rem 0 3rem;
+}
+.titu5{
+    background-color: blue;
+    margin-top: 1rem;    
+    text-align: justify;
+    font-size: 2rem;
+}
+
+.ico6{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 1rem;
+    margin: 0 1rem 0 3rem;
+}
+.titu6{
+    background-color: blue;
+    margin-top: 1rem;    
+    text-align: justify;
+    font-size: 2rem;
+}
+.fott{
+    display: flex;
+    flex-direction: row;
+    padding-top: 5rem;
+}
+.fot1{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 1rem;
+    margin: 0 1rem 0 3rem;
+}
+.titu6{
+    background-color: blue;
+    margin-top: 1rem;    
+    text-align: justify;
+    font-size: 2rem;
+}
+/*
+.list{
+    display: flex;
+    flex-direction: row;
+    padding-top: 5rem;
+}
+.imagen{
+    background-color: blue;
+}
+.two{
+    display: flex;
+    flex-direction: column;
+    padding-top: 5rem;
+}
+.texto1{
+    margin-top: 7rem;
+   margin-left: 2rem;
+}
+
+.imagen2{
+    width: 5rem;
+    height: 5rem;
+    background-color: blue;
+    margin-top: 15rem;
+    
+}
+.texto2{
+    margin-top: 7rem;
+   margin-left: 2rem;
+}*/
