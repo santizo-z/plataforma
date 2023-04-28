@@ -1,0 +1,68 @@
+body{
+    width: 10rem;
+    height: 10rem;
+    background-color: rgba(242, 248, 243, 1);
+
+  
+}
+.caja1{
+    height: 20rem;
+    width: 37.6rem;
+    background-color: var(---color8);
+    border-top-right-radius: 3rem;
+    border-top-left-radius: 3rem;
+}
+.cabeza{
+    padding-top: 3rem;
+    display: flex;
+    
+}
+.buscador{
+    width: 55%;
+    height: 3.8rem;
+    background-color: var(---color23) ;
+    border-radius: 3rem;
+    margin-left: 2rem;
+}
+.A{
+    width: 30%;
+    height: 4rem;
+    margin-left: 1rem;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.A img{
+    height: 2rem;
+    width: auto;
+
+}
+
+.perfil{
+    display: flex;
+    align-items: center;
+
+}
+.perfil img{
+    width: 8rem;
+    height: 8rem;
+    margin-left: 2rem;
+    margin-top: 2rem;
+}
+.perfil p{
+    font-size: 2rem;
+    color: var(---color23);
+    font-weight: 600;
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+footer{
+    margin-top: 50rem;
+    height: 8rem;
+    width: 37.6rem;
+    background-color: brown;
+
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+}
