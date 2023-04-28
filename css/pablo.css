@@ -56,6 +56,7 @@ header {
 
 .textos > h2 {
     font-size: 1.5rem;
+    color: var(---color2);
 }
 
 .textos > p {
@@ -72,6 +73,7 @@ header {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    color: var(---color2);
 }
 .nums_txt > li {
     padding: 0.5rem 2.5rem;
@@ -84,6 +86,7 @@ header {
     justify-content: space-between;
     align-items: center;
     margin: auto;
+    color: var(---color2);
 }
 
 .nums_nums > li {
@@ -93,24 +96,37 @@ header {
 }
 
 .medio {
-    border: 2px solid black;
     display: block;
     width: 90%;
     border-radius: 2rem;
-    height: 10rem;
+    height: 14rem;
     background-color: var(---color23);
 
     position: absolute;
     left: 0;
     right: 0;
-    bottom: -50px;
+    bottom: -95px;
     margin: auto;
 }
 
 .medio > h1 {
     display: block;
-    margin-left: 1.5rem;
+    margin-left: 2.3rem;
     margin-top: 1.5rem;
+}
+
+.logotipos {
+    margin: 2rem 2.3rem;
+}
+
+.pictures {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.pictures > img {
+    height: 3rem;
 }
 
 .letras {
@@ -126,19 +142,13 @@ header {
 
 .indice {
     display: block;
-    margin-top: 6.5rem;
+    margin-top: 13rem;
 }
 
 .viñeta1 {
     display: flex;
     flex-wrap: wrap;
-}
-
-.viñeta1 > h1 {
-    display: block;
-    color: var(---color21);
-    font-size: 2rem;
-    margin: 0rem 0rem;
+    justify-content: space-between;
 }
 
 .Cuadro1 {
@@ -146,6 +156,7 @@ header {
     flex-wrap: wrap;
     font-size: 1.5rem;
     justify-content: space-between;
+    margin: 1.3rem 2rem;
 }
 
 .Cuadro1 > h3 {
@@ -157,6 +168,8 @@ header {
     margin: 0rem 2rem;
     color: var(---color3);
     font-weight: 600;
+    margin-left: 19rem;
+    font-size: 2rem;
 }
 
 .viñeta2 {
@@ -165,18 +178,12 @@ header {
     margin-top: 4rem;
 }
 
-.viñeta2 > h1 {
-    display: block;
-    color: var(---color21);
-    font-size: 2rem;
-    margin: 0rem 0rem;
-}
-
 .Cuadro2 {
     display: flex;
     flex-wrap: wrap;
     font-size: 1.5rem;
     justify-content: space-between;
+    margin: 1.3rem 2rem;
 }
 
 .Cuadro2 > h3 {
@@ -188,6 +195,8 @@ header {
     margin: 0rem 2rem;
     color: var(---color3);
     font-weight: 600;
+    margin-left: 19rem;
+    font-size: 2rem;
 }
 
 .viñeta3 {
@@ -196,18 +205,12 @@ header {
     margin-top: 4rem;
 }
 
-.viñeta3 > h1 {
-    display: block;
-    color: var(---color21);
-    font-size: 2rem;
-    margin: 0rem 0rem;
-}
-
 .Cuadro3 {
     display: flex;
     flex-wrap: wrap;
     font-size: 1.5rem;
     justify-content: space-between;
+    margin: 1.3rem 2rem;
 }
 
 .Cuadro3 > h3 {
@@ -219,6 +222,8 @@ header {
     margin: 0rem 2rem;
     color: var(---color3);
     font-weight: 600;
+    margin-left: 19rem;
+    font-size: 2rem;
 }
 
 .viñeta4 {
@@ -227,18 +232,12 @@ header {
     margin-top: 4rem;
 }
 
-.viñeta4 > h1 {
-    display: block;
-    color: var(---color21);
-    font-size: 2rem;
-    margin: 0rem 0rem;
-}
-
 .Cuadro4 {
     display: flex;
     flex-wrap: wrap;
     font-size: 1.5rem;
     justify-content: space-between;
+    margin: 1.3rem 2rem;
 }
 
 .Cuadro4 > h3 {
@@ -250,6 +249,8 @@ header {
     margin: 0rem 2rem;
     color: var(---color3);
     font-weight: 600;
+    margin-left: 19rem;
+    font-size: 2rem;
 }
 
 .viñeta5 {
@@ -258,18 +259,12 @@ header {
     margin-top: 4rem;
 }
 
-.viñeta5 > h1 {
-    display: block;
-    color: var(---color21);
-    font-size: 2rem;
-    margin: 0rem 0rem;
-}
-
 .Cuadro5 {
     display: flex;
     flex-wrap: wrap;
     font-size: 1.5rem;
     justify-content: space-between;
+    margin: 1.3rem 2rem;
 }
 
 .Cuadro5 > h3 {
@@ -281,6 +276,8 @@ header {
     margin: 0rem 2rem;
     color: var(---color3);
     font-weight: 600;
+    margin-left: 19rem;
+    font-size: 2rem;
 }
 
 .viñeta6 {
@@ -289,18 +286,12 @@ header {
     margin-top: 4rem;
 }
 
-.viñeta6 > h1 {
-    display: block;
-    color: var(---color21);
-    font-size: 2rem;
-    margin: 0rem 0rem;
-}
-
 .Cuadro6 {
     display: flex;
     flex-wrap: wrap;
     font-size: 1.5rem;
     justify-content: space-between;
+    margin: 1.3rem 2rem;
 }
 
 .Cuadro6 > h3 {
@@ -312,6 +303,8 @@ header {
     margin: 0rem 2rem;
     color: var(---color3);
     font-weight: 600;
+    margin-left: 22.5rem;
+    font-size: 2rem;
 }
 
 .viñeta7 {
@@ -320,18 +313,12 @@ header {
     margin-top: 4rem;
 }
 
-.viñeta7 > h1 {
-    display: block;
-    color: var(---color21);
-    font-size: 2rem;
-    margin: 0rem 0rem;
-}
-
 .Cuadro7 {
     display: flex;
     flex-wrap: wrap;
     font-size: 1.5rem;
     justify-content: space-between;
+    margin: 1.3rem 2rem;
 }
 
 .Cuadro7 > h3 {
@@ -343,4 +330,6 @@ header {
     margin: 0rem 2rem;
     color: var(---color3);
     font-weight: 600;
+    margin-left: 22.5rem;
+    font-size: 2rem;
 }
