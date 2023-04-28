@@ -1,7 +1,7 @@
 body{
     width: 10rem;
     height: 10rem;
-    background-color: var(---color3);
+    background-color: var(---color24);
 
   
 }
@@ -75,7 +75,7 @@ body{
     align-items: flex-end;
     justify-content: space-around;
     text-align: center;
-    background-color: var(---color23);
+    background-color: var(---color25);
 
     border-bottom-left-radius: 2rem;
     border-bottom-right-radius: 2rem;
@@ -105,7 +105,7 @@ body{
 
 }
 .box1{
-    background-color:var(---color23);
+    background-color:var(---color25);
     width: 32.20rem;
     height: 11.5rem;
     border-radius: 2rem;
@@ -129,7 +129,7 @@ body{
 }
 .box1 .uno a{
     text-decoration: none;
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: var(---color2);
 }
 
@@ -143,7 +143,7 @@ body{
 }
 .box1 .dos p{
     font-size: 1.5rem;
-    color:rgba(160, 167, 186, 1);
+    color:rgba(160, 167, 186);
 }
 .pestaña{
     width: auto;
@@ -160,11 +160,187 @@ body{
 }
 
 
+/*----------Caja dos----------*/
+.box2{
+    background-color:var(---color25);
+    width: 32.20rem;
+    height: 13.5rem;
+    border-radius: 2rem;
+    margin-top: 2rem;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.box2 .uno{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+    padding-left: 1.7rem;
+    padding-right:1.7rem;
+}
+.box2 .uno p{
+    font-size: 1.6rem;
+    font-weight: 800;
+    color:var(---color18);
+}
+.box2 .uno a{
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: var(---color2);
+}
+
+.box2 .dos{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 1.7rem;
+    padding-right:1.7rem;
+}
+.box2 .dos p{
+    margin-top: 1rem;
+    color: var(---color28);
+    font-size: 1.5rem;
+}
+
+.box2 .tres{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 1.7rem;
+    padding-right:1.7rem;
+}
+.box2 .tres p{
+    margin-top: 1rem;
+    color: var(---color17);
+    font-size: 1.7rem;
+    font-weight: 700;
+}
+.box2 .cuatro{
+    height: 2rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.c1{
+    height: 0.7rem;
+    width: 0.7rem;
+
+
+    border-radius: 100%;
+    background-color: var(---color24);
+}
+
+.box2 .cuatro .c{
+    height: 0,5rem;
+    width: 0.5rem;
+    background-color: var(---color24);
+}
+
+/*---------Caja tres------------*/
+.box3{
+    width: 32.20rem;
+    margin-top: 2rem;
+    background-color: var(---color25);
+   
+    border-radius: 2rem;
+    display: flex;
+    justify-content: space-between
+}
+.box3 .U1{
+    margin-top: 1rem;
+    font-size: 1.7rem;
+    color: var(---color17);
+    font-weight: 600;
+}
+.box3 .uno{
+    padding-left: 1.5rem;
+    margin-right: -2rem;
+}
+.num{
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+    
+}
+.num p{
+    text-decoration: none;
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: var(---color17);
+    
+}
+.num a{
+    text-decoration: none;
+    margin-left: 2rem;
+    font-size: 1.5rem;
+    color: var(---color17);
+}
+.gris{
+    width: 80%;
+    height: auto;
+}
+.gris p{
+    font-size: 1.3rem;
+    color: var(---color28);
+}
+.num2{
+    display: flex;
+    align-items: center;
+    margin-top: -1rem;
+}
+.num2 p{
+    color: var(---color28);
+    font-size: 1.2rem;
+}
+.num2 .A{
+    margin-right: -3.4rem;
+    margin-left: -0.001rem;
+}
+.num2 .B{
+    color: var(---color18);
+}
+.num2 .D{
+    color: var(---color8);
+    margin-left: 1rem
+}
+
+.box3 .dos{
+    width: 13.2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.box3 .dos a{
+    text-decoration: none;
+    margin-top: 1rem;
+    margin-right: 1rem;
+    font-size: 1.5rem;
+    color: var(---color17);
+}
+.send-call{
+    width: 100%;
+    height: 45%;
+    display: flex;
+    justify-content: space-around;
+}
+.send-call img{
+    height: 4rem;
+    width: auto;
+    margin-right: 1.5rem;
+}
+
+/*--------------Footer---------------*/
+
 footer{
-    margin-top: 50rem;
+    margin-top: 2rem;
     height: 8rem;
     width: 37.6rem;
-    background-color: var(---color23);
+    background-color: var(---color25);
 
     border-bottom-left-radius: 2rem;
     border-bottom-right-radius: 2rem;
@@ -188,6 +364,9 @@ footer{
     justify-content: space-around;
 }
 .icons img{
-    height: 4rem;
+    height: 2.5rem;
     width: auto;
+}
+.personal p{
+    color: var(---color8);
 }
