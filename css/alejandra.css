@@ -1,0 +1,293 @@
+.caja1{
+    width: 360px;
+    background-color: #f5f5ff;
+    height: 93rem;
+    margin-left: 50rem;
+    border-radius: 2.5rem;
+}
+
+.header{
+    height: 9rem;
+    border-radius: 0.5rem  0.5rem 0 0;
+    display: flex;
+    flex-direction: row;
+    margin-left: 1.1rem;
+    padding-top: 5rem;
+    padding-left: 14.5rem;
+
+}
+
+.img1{
+    height: 3rem;
+    width: rem;
+    
+    margin-left: 3.1rem;
+    
+}
+
+.img2{
+    height: 3rem;
+    width: rem;
+    margin-left: 3rem;
+    margin-right: 3.1rem;
+}
+.img3{
+    height: 3rem;
+    width: 3rem;
+}
+/**/
+.box1{
+    height: 10rem;
+    padding-top: 0.5rem;
+    padding-left: 2.5rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.imagen{
+ 
+    background-image: url("https://img2.thuthuat123.com/uploads/2020/05/12/hinh-nen-dien-thoai-doi-cuc-dep-net-ve-don-gian-1_125803295.jpg");
+    height: 8rem;
+    width: 8rem;
+    border-radius: 70rem;
+
+    
+}
+
+.caja2_1{
+    height: 8rem;
+    width: 14rem;
+    margin-left: 2rem;
+}
+
+.id{
+    padding-top: 0.5rem;
+    font-size: 2.2rem;
+    font-weight: 800;
+}
+.id1{
+    padding-top: 0.5rem;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+.caja2_1_1{
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.name{
+    font-size: 1.6rem;
+    padding-right: 0.8rem;
+    margin-top: -0.2rem;
+    font-weight: 400;
+}
+.tata{
+    font-size: 1.7rem;
+    padding-right: 0.5rem;
+    margin-left: 1rem;
+    display: flex;
+         }
+         /***********************************/
+         .cak{
+            height: 7rem;
+         }
+
+        
+.caja3{
+    height: 13rem;
+    padding: 2.5rem;
+
+    display: flex;
+    flex-direction: row;
+
+}
+
+.caja3_1{
+    width: 22rem;
+    height: 9rem;
+    border-radius: 1.5rem;
+    margin-left: -1rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.caja_text{
+    display: flex;
+    
+    width: 8rem;
+    padding-top: 2.5rem;
+   
+}
+
+.text3_1{
+    margin-top: -1rem;
+    font-size: 1.0rem;
+    font-weight: 700;
+}
+.caja3_2{
+    width: 12rem;
+    height: 9rem;
+    border-radius: 1.5rem;
+    margin-left: 1.5rem;
+
+   
+}
+.caja3_3{
+    width: 22rem;
+    height: 9rem;
+    border-radius: 1.5rem;
+    margin-left: 1.5rem;
+
+   
+}
+
+.caja_textt{
+    display: flex;
+    flex-direction: column;
+
+    width: 12rem;
+    padding-top: 2.5rem;
+    padding-left: 1.5rem;
+}
+.text3_1{
+    font-size: 1.3rem;
+    padding-right: 0.5rem;
+    margin-left: 6.4rem;
+    font-weight: 400;
+    flex-direction: row-reverse;
+}
+
+.text3_2{
+ 
+    font-size: 1.3rem;
+    padding-right: 0.5rem;
+    margin-left: 6.4rem;
+    font-weight: 400;
+    flex-direction: row-reverse;
+}
+.text3_3{
+    font-size: 1.3rem;
+    padding-right: 0.5rem;
+    margin-left: 6.4rem;
+    font-weight: 400;
+    flex-direction: row-reverse;
+}
+
+
+.caja4{
+    padding-top: 1rem;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.text_4{
+    margin-left: 1.5rem;
+    font-size: 1.8rem;
+    font-weight: 900;
+}
+.caja5{
+    height: 7rem;
+    padding-top: 0%;
+    padding-left: 0%;
+   
+}
+.caja51{
+    height: 7rem;
+    font-size: 1.3rem;
+    padding-right: 0.5rem;
+    margin-left: 16.4rem;
+    font-weight: 400;
+    flex-direction: column;
+}
+
+.textos5{
+    margin-top: 0rem;
+    display: flex;
+    flex-direction: row;
+}
+.textos51{
+    margin-top: 0.5rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.text5{
+    font-size: 1.3rem;
+    padding-right: 0.5rem;
+    margin-left: 3.5rem;
+    font-weight: 400;
+}
+
+.text5_1{
+    font-size: 1.3rem;
+    padding-right: 0.5rem;
+    margin-left: 6.4rem;
+    font-weight: 400;
+}
+
+.text5_2{
+    font-size: 1.3rem;
+    padding-right: 0.5rem;
+    margin-left: 6.1rem;
+    font-weight: 400;
+}
+
+.text5_3{
+    font-size: 1.3rem;
+    padding-right: 0.5rem;
+    margin-left: 6.4rem;
+    font-weight: 400;
+}
+.caja5{
+    height: 7rem;
+    flex-direction: row-reverse;
+}
+
+/****************************************/
+.caja6{
+    background-image: url("https://github.com/santizo-z/plataforma/blob/main/iconos-alex/ico-alejandra/flores.png?raw=true");
+    height: 8.2rem;
+    margin: 1.5rem;
+    padding: 9.5rem;
+    border-radius: 2rem;
+    border-width: 0px;
+    position: sticky;
+
+
+    display: flex;
+    flex-direction: row;
+}
+
+.caja7{
+    
+    margin-right: 5.5rem;
+    flex-direction: row;
+    font-size: 1.8rem;
+    font-weight: 900;
+}
+.block2 {
+    
+    background-image: url("https://github.com/santizo-z/plataforma/blob/main/iconos-alex/ico-alejandra/flor2.png?raw=true");
+    height: 8.2rem;
+    margin: 1.5rem;
+    padding: 9.5rem;
+    border-radius: 2rem;
+    border-width: 0px;
+    position: sticky;
+  }
+
+   
+
+
+
+
+
+
+
+
+
+
+
