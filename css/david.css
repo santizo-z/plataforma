@@ -1,24 +1,29 @@
+body{
+    background-color: rgb(255, 193, 78);
+
+}
+
 .titulo{
     position: absolute;
     width: 247px;
     height: 47px;
-    left: 550px;
-    top: 49px;
+    left: 560px;
+    top: 75px;
 
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Inter', sans-serif;
     font-style: normal;
     font-weight: 400;
     font-weight: 500;
-    font-size: 36px;
+    font-size: 30px;
     line-height: 42px; 
 }
 .caja{
     box-sizing: border-box;
     position: absolute;
-    width: 343px;
-    height: 453px;
-    left: calc(47% - 343px/2 - 0.5px);
-    top: calc(50% - 453px/2 + 0.5px);
+    width: 300px;
+    height: 350px;
+    left: calc(47% - 280px/2 - 0.5px);
+    top: calc(50% - 400px/2 + 0.5px);
 
     background: #FFFFFF;
     border: 1px solid #302f2f;
@@ -31,7 +36,7 @@
     top: 20%;
     bottom: 69.7%;
 
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Inter', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -60,7 +65,7 @@
     top: 40%;
     bottom: 69.7%;
 
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Inter', sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 14px;
@@ -86,8 +91,8 @@
     position: absolute;
     width: 163px;
     height: 45px;
-    left: 93px;
-    top: 345px;
+    left: 60px;
+    top: 240px;
 
 /* principal */
 
@@ -97,7 +102,7 @@
    cursor: pointer;
 }
 .iniciar{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Inter', sans-serif;
     text-transform: capitalize;
 
     color: #FFFFFF;

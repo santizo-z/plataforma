@@ -1,0 +1,614 @@
+.caja1{
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    background-image: url("/iconos-alex/ico-keily/degradado.png");
+    background-position: center;
+    background-size: cover;
+    width: 375px;
+    height: 93rem;
+    border-radius: 1.5rem;
+}
+/**********************/
+/***********************/
+.header{
+    height: 9rem;
+    border-radius: 1.5rem  1.5rem 0 0;
+
+    display: flex;
+    flex-direction: row;
+    padding-top: 4rem;
+    padding-left: 23.5rem;
+}
+
+.img1{
+    height: 3rem;
+    width: 3rem;
+    margin-right: 5rem;
+}
+
+.img2{
+    height: 3rem;
+    width: 3rem;
+}
+
+/********************/
+.caja2{
+    height: 10rem;
+    padding-top: 1.5rem;
+    padding-left: 1.5rem;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.imgperfil{
+    height: 8rem;
+    width: 8rem;
+    border-radius: 50rem;
+    border: var(---color25) 4px solid ;
+}
+/*****/
+.caja2_1{
+    height: 8rem;
+    width: 14rem;
+    margin-left: 2rem;
+}
+
+.id{
+    padding-top: 0.5rem;
+    font-size: 2.3rem;
+    font-weight: 800;
+}
+
+.caja2_1_1{
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.name{
+    font-size: 1.6rem;
+    color: var(---color30);
+    padding-right: 0.8rem;
+    margin-top: -0.2rem;
+    font-weight: 400;
+}
+
+.calificaion{
+    font-weight:1000;
+    color: var(---color27);
+}
+
+.caja2_1_2{
+    height: 20rem;
+    
+    display: flex;
+    flex-direction: row;
+}
+
+.linea1{
+    margin-top: 0.5rem;
+    width: 75px;
+    height: 0.5rem;
+    background-color: var(---color27);
+    border-radius: 20rem;
+    border: none;
+}
+
+.circle{
+    margin-top: 0.5rem;
+    margin-left: -7.5rem;
+    width: 5px;
+    height: 0.5rem;
+    background-color:  var(---color27);
+    border-radius: 80rem ;
+    border-color:  var(---color27);
+    border-width: 0px;
+    box-shadow: 0 0px 3px 2px  var(---color27);
+}
+
+.linea2{
+    margin-top: 0.5rem;
+    margin-left: -0.3rem;
+    width: 75px;
+    height: 0.5rem;
+    background-color: var(---color25);
+    border-radius: 20rem ;
+    border: none;
+
+}
+
+/*******/
+
+.caja2_2{
+    margin-top: 2.5rem;
+    margin-left: 2rem;
+    width: 10rem;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.name1{
+    font-size: 1.3rem;
+    color: var(---color30);
+    padding-right: 0.5rem;
+    margin-left: 1rem;
+    margin-top: 0.5rem;
+    font-weight: 400;
+}
+
+.signo{
+    font-size: 2rem;
+    color: var(---color30);
+    font-weight: 400;
+    margin-top: 0.1rem;
+}
+
+/*********************/
+.caja3{
+    height: 13rem;
+    padding: 2.5rem;
+
+    display: flex;
+    flex-direction: row;
+
+}
+
+.caja3_1{
+    width: 22rem;
+    height: 9rem;
+    background-color: var(---color25);
+
+    border-radius: 1.5rem;
+    margin-left: -1rem;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.img3_1{
+    height: 3rem;
+    width: 3rem;
+    margin: auto;
+    margin-left: 1.5rem;
+}
+
+.caja_text{
+    display: flex;
+    flex-direction: column;
+
+    width: 12rem;
+    padding-top: 2.5rem;
+    padding-left: 1.5rem;
+}
+
+.text3_1{
+    margin-top: -1rem;
+    font-size: 2.3rem;
+    font-weight: 900;
+}
+
+.text3_11{
+    margin-top:0.51rem;
+    color: var(---color30);
+    font-weight: 400;
+}
+
+/*************************/
+.caja3_2{
+    width: 22rem;
+    height: 9rem;
+    background-color: var(---color25);
+
+    border-radius: 1.5rem;
+    margin-left: 1.5rem;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.img3_2{
+    height: 3rem;
+    width: 3rem;
+    margin: auto;
+    margin-left: 1.5rem;
+}
+
+.caja_textt{
+    display: flex;
+    flex-direction: column;
+
+    width: 12rem;
+    padding-top: 2.5rem;
+    padding-left: 1.5rem;
+}
+
+.text3_2{
+    margin-top: -1rem;
+    font-size: 2.3rem;
+    font-weight: 900;
+}
+
+.text3_22{
+    margin-top:0.51rem;
+    color: var(---color30);
+    font-weight: 400;
+}
+
+/***************************************/
+.caja4{
+    padding-top: 1rem;
+
+    display: flex;
+    flex-direction: row;
+}
+
+.text_4{
+    margin-left: 1.5rem;
+    font-size: 1.8rem;
+    font-weight: 800;
+    color: var(---color2);
+}
+
+.text_41{
+    font-size: 1.3rem;
+    color: var(---color28);
+    padding-right: 0.5rem;
+    margin-left: 20rem;
+    font-weight: 400;
+}
+
+.signo1{
+    font-size: 2rem;
+    color: var(---color28);
+    font-weight: 400;
+    margin-top: -0.4rem;
+}
+
+/****************************************/
+.caja5{
+    height: 7rem;
+}
+
+.imagenes5{
+    display: flex;
+    flex-direction: row;
+    padding: 1.5rem;
+    padding-left: 2rem;
+}
+
+.img5{
+    width: 3rem;
+    height: 3rem;
+    margin-right: 4.5rem;
+}
+
+.img5_1{
+    margin-top: -0.5rem;
+    width: 3.5rem;
+    height: 3.5rem;
+    margin-right: 4rem;
+}
+
+.textos5{
+    margin-top: -1rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.text5{
+    font-size: 1.3rem;
+    color: var(---color28);
+    padding-right: 0.5rem;
+    margin-left: 1.5rem;
+    font-weight: 400;
+}
+
+.text5_1{
+    font-size: 1.3rem;
+    color: var(---color28);
+    padding-right: 0.5rem;
+    margin-left: 3.2rem;
+    font-weight: 400;
+}
+
+.text5_2{
+    font-size: 1.3rem;
+    color: var(---color28);
+    padding-right: 0.5rem;
+    margin-left: 3.1rem;
+    font-weight: 400;
+}
+
+.text5_3{
+    font-size: 1.3rem;
+    color: var(---color28);
+    padding-right: 0.5rem;
+    margin-left: 3.2rem;
+    font-weight: 400;
+}
+
+.text5_4{
+    font-size: 1.3rem;
+    color: var(---color28);
+    padding-right: 0.5rem;
+    margin-left: 3.6rem;
+    font-weight: 400;
+}
+
+/****************************************/
+.caja6{
+    background: linear-gradient(92.23deg, #FFB4B4 2.08%, #FF6F6F 97.09%);
+    height: 8.2rem;
+    margin: 2.5rem;
+    padding: 1.5rem;
+    border-color:  var(---color10);
+    border-radius: 2rem;
+    border-width: 0px;
+    box-shadow: 0 2px 8px 0px  var(---color10);
+
+
+    display: flex;
+    flex-direction: row;
+}
+
+.text61{
+    font-size: 2rem;
+    font-weight: 600;
+    color: var(---color25);
+}
+
+.text611{
+    font-size: 1.2rem;
+    color: var(---color25);
+    font-weight: 400;
+    padding-top: 1rem;
+    
+}
+
+.textt612{
+    font-size: 1.2rem;
+    color: var(---color29);
+    font-weight: 800;
+    margin-top: -1.6rem;
+    margin-left: 10.2rem;
+}
+
+.caja62{
+    background-color: var(---color23);
+    border-radius: 5rem;
+    width: 9rem;
+    height: 4rem;
+
+    margin-top: 0.8rem;
+    margin-left: 4rem;
+}
+
+.text622{
+    margin-top: 0.8rem;
+    margin-left: 1.3rem;
+    font-size: 1.6rem;
+    font-weight: 900;
+    color: var(---color9);
+}
+
+/*********************************/
+.caja7{
+    margin-left: 1.5rem;
+    font-size: 1.8rem;
+    font-weight: 900;
+    color: var(---color2);
+}
+
+/***************************/
+.caja8{
+    margin: 1.5rem;
+    margin-top: 0rem;
+}
+
+.primera8{
+    display: flex;
+    flex-direction: row;
+    padding: 1.5rem;
+    padding-left: 2rem;
+}
+
+.img8{
+    width: 3rem;
+    height: 3rem;
+    margin-right: 6rem;
+    margin-bottom: 1.5rem;
+}
+
+.textoprim8{
+    margin-top: -3rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.text8{
+    font-size: 1.3rem;
+    color: var(---color2);
+    padding-right: 0.5rem;
+    margin-left: 1.2rem;
+    font-weight: 400;
+}
+
+.text8_1{
+    font-size: 1.3rem;
+    color: var(---color2);
+    padding-right: 0.5rem;
+    margin-left: 3.2rem;
+    font-weight: 400;
+}
+
+.text8_2{
+    font-size: 1.3rem;
+    color: var(---color2);
+    padding-right: 0.5rem;
+    margin-left: 3.2rem;
+    font-weight: 400;
+}
+
+.text8_3{
+    font-size: 1.3rem;
+    color: var(---color2);
+    padding-right: 0.5rem;
+    margin-left: 3.2rem;
+    font-weight: 400;
+}
+
+
+/*----------------*/
+
+.segunda8{
+    display: flex;
+    flex-direction: row;
+    padding: 3rem;
+    padding-left: 2rem;
+}
+
+.textosegun8{
+    margin-top: -4rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.text8_4{
+    font-size: 1.3rem;
+    color: var(---color2);
+    padding-right: 0.5rem;
+    margin-left: 1.2rem;
+    font-weight: 400;
+}
+
+.text8_5{
+    font-size: 1.3rem;
+    color: var(---color2);
+    padding-right: 0.5rem;
+    margin-left: 3.2rem;
+    font-weight: 400;
+}
+
+/*****************************/
+.caja9{
+    height: 8rem;
+
+}
+
+.rectangulo{
+    background-color: var(---color26);
+    width: 3.8rem;
+    height: 7rem;
+    margin-left: 33.7rem;
+   
+}
+
+.circleone{
+    background-color: var(---color25);
+    width: 5rem;
+    height: 5rem;
+    border-radius: 3rem;
+    margin-top: -10rem;
+    margin-bottom: 13rem;
+    margin-left: 32.5rem;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.circletwo{
+    background-color: var(---color26);
+    width: 4rem;
+    height: 4rem;
+    border-radius: 2rem;
+    margin-top: -21.5rem;
+    margin-left: 32.5rem;
+}
+
+.carreta{
+    width: 2.5rem;
+    height: 2.5rem;
+    margin-top: 0.8rem;
+    margin-left: 1rem;
+}
+
+
+
+/******************************/
+/*Sección del pie de pag*/
+.pie{
+    width: 37.5rem;
+    height: 8.5rem;
+    background-color: var(---color23);
+    border-top:var(---color15) 1px solid;
+    position:fixed;
+    z-index: 2000;
+    bottom: 0;
+    border-radius: 0 0 1.5rem 1.5rem;
+}
+
+.iconos{
+    display: flex;
+    flex-direction: row;
+    margin-left: 3.5rem;
+}
+
+/*Primer icono*/
+.icon1{
+    width: 3rem;
+    height: 3rem;
+    margin: 2rem 3rem 2rem 1rem;
+    display:flex;
+    flex-direction: column
+    
+}
+
+/*segundo icono*/
+.icon2{
+    width: 3rem;
+    height: 3rem;
+    margin: 2rem 6rem 2rem 7rem;
+    display:flex;
+    flex-direction: column
+}
+
+/*Tercer icono*/
+.icon3{
+    width: 3rem;
+    height: 3rem;
+    margin: 2rem 4rem 2rem 3rem;
+    display:flex;
+    flex-direction: column
+}
+
+.texto_ico{
+    display: flex;
+    flex-direction: row;
+    margin-left: 3.5rem;
+    margin-top: -1.5rem;
+}
+
+.textpie{
+    font-size: 1.6rem;
+    color: var(---color28);
+    padding-right: 0.5rem;
+    margin-left: 1rem;
+    font-weight: 400;
+}
+
+.textpie1{
+    font-size: 1.6rem;
+    color: var(---color28);
+    padding-right: 0.5rem;
+    margin-left: 9.2rem;
+    font-weight: 400;
+}
+
+.textpie3{
+    font-size: 1.6rem;
+    color: var(---color27);
+    padding-right: 0.5rem;
+    margin-left: 8.2rem;
+    font-weight: 500;
+}

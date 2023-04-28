@@ -1,0 +1,218 @@
+body{
+    background-color: var(---color5);
+}
+main{
+    width: 375px;
+    border-radius: 3rem;
+    background-color: white;
+    margin-left: 50rem;
+    margin-top: 3rem;
+}
+.mainimg{
+    display: flex;
+    flex-direction: row;
+    background-image:url(/iconos-alex/ico-claudia/luna.png);
+    width: 35rem;
+    height: 20rem;
+    
+}
+
+.sec{
+    display: flex;
+    flex-direction: row;
+    
+}
+.imagen{
+    
+    width: 10rem;
+    height: 10rem;
+    border-radius: 1rem;
+    margin: -15rem 2rem 0 3rem;
+}
+.text{
+    margin-top: -7rem;    
+   text-align: justify;
+   font-size: 2rem;
+} 
+.iid{
+    text-align: left;
+    color: rgba(148, 148, 136, 0.767);
+}
+.lapiz{
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+/**/
+.list{
+    display: flex;
+    flex-direction: row;
+    padding-top: 5rem;
+}
+.ico1{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 1rem;
+    margin: 0 1rem 0 3rem;
+}
+.titu1{
+    margin-top: 1rem;    
+    text-align: justify;
+    font-size: 2rem;
+}
+.flecha1{
+    margin: 1rem 0 0 15rem;
+    font-size: 2rem;
+    color: var(---color3);
+   
+}
+
+.ico2{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 1rem;
+    margin: 0 1rem 0 3rem;
+}
+.titu2{
+    margin-top: 1rem;    
+    text-align: justify;
+    font-size: 2rem;
+}
+.flecha2{
+    margin: 1rem 0 0 15rem;
+    font-size: 2rem;
+    color: var(---color3);
+  
+}
+
+.ico3{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 1rem;
+    margin: 0 1rem 0 3rem;
+}
+.titu3{
+    margin-top: 1rem;    
+    text-align: justify;
+    font-size: 2rem;
+}
+.flecha3{
+    margin: 1rem 0 0 15rem;
+    font-size: 2rem;
+    color: var(---color3);
+    
+}
+
+.ico4{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 1rem;
+    margin: 0 1rem 0 3rem;
+}
+.titu4{
+    margin-top: 1rem;    
+    text-align: justify;
+    font-size: 2rem;
+}
+.flecha4{
+    margin: 1rem 0 0 15rem;
+    font-size: 2rem;
+    color: var(---color3);
+   
+}
+
+
+.ico5{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 1rem;
+    margin: 0 1rem 0 3rem;
+}
+.titu5{
+    margin-top: 1rem;    
+    text-align: justify;
+    font-size: 2rem;
+}
+.apart5{
+    display: flex;
+    flex-direction: row;
+    width: 105rem;
+}
+.flecha{
+    margin: 2rem 0 0 19rem;
+    font-size: 2rem;
+    color: var(---color3);
+    
+}
+
+
+.ico6{
+    width: 5rem;
+    height: 5rem;
+    border-radius: 1rem;
+    margin: 0 1rem 0 3rem;
+}
+.titu6{
+    margin-top: 1rem;    
+    text-align: justify;
+    font-size: 2rem;
+}
+.flecha6{
+    margin: 1rem 0 0 19rem;
+    font-size: 2rem;
+    color: var(---color3);
+   
+}
+.fott{
+    display: flex;
+    flex-direction: row;
+    padding-top: 5rem;
+}
+.fot1{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 1rem;
+    margin: 0 2rem 0 4rem;
+}
+.linea{
+    width: 5rem;
+    height: 0.8rem;
+    margin-left: 30rem;
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+}
+.titu6{
+    margin-top: 1rem;    
+    text-align: justify;
+    font-size: 2rem;
+}
+/*
+.list{
+    display: flex;
+    flex-direction: row;
+    padding-top: 5rem;
+}
+.imagen{
+    background-color: blue;
+}
+.two{
+    display: flex;
+    flex-direction: column;
+    padding-top: 5rem;
+}
+.texto1{
+    margin-top: 7rem;
+   margin-left: 2rem;
+}
+
+.imagen2{
+    width: 5rem;
+    height: 5rem;
+    background-color: blue;
+    margin-top: 15rem;
+    
+}
+.texto2{
+    margin-top: 7rem;
+   margin-left: 2rem;
+}*/
