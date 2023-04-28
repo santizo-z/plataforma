@@ -67,7 +67,7 @@
 
 .name{
     font-size: 1.6rem;
-    color: var(---color28);
+    color: var(---color30);
     padding-right: 0.8rem;
     margin-top: -0.2rem;
     font-weight: 400;
@@ -130,7 +130,7 @@
 
 .name1{
     font-size: 1.3rem;
-    color: var(---color28);
+    color: var(---color30);
     padding-right: 0.5rem;
     margin-left: 1rem;
     margin-top: 0.5rem;
@@ -139,7 +139,7 @@
 
 .signo{
     font-size: 2rem;
-    color: var(---color28);
+    color: var(---color30);
     font-weight: 400;
     margin-top: 0.1rem;
 }
@@ -190,7 +190,7 @@
 
 .text3_11{
     margin-top:0.51rem;
-    color: var(---color28);
+    color: var(---color30);
     font-weight: 400;
 }
 
@@ -231,7 +231,7 @@
 
 .text3_22{
     margin-top:0.51rem;
-    color: var(---color28);
+    color: var(---color30);
     font-weight: 400;
 }
 
