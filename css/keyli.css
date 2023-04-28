@@ -1,14 +1,13 @@
-
-
 .caja1{
-    background-image: url(/img-keily/img.png);
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    background-image: url("/iconos-alex/ico-keily/degradado.png");
+    background-position: center;
+    background-size: cover;
     width: 375px;
     height: 93rem;
-    margin-left: 50rem;
     border-radius: 1.5rem;
 }
 /**********************/
-
 /***********************/
 .header{
     height: 9rem;
@@ -45,7 +44,7 @@
     height: 8rem;
     width: 8rem;
     border-radius: 50rem;
-    border: var(---color23) 5px solid ;
+    border: var(---color25) 4px solid ;
 }
 /*****/
 .caja2_1{
@@ -68,7 +67,7 @@
 
 .name{
     font-size: 1.6rem;
-    color: var(---color3);
+    color: var(---color28);
     padding-right: 0.8rem;
     margin-top: -0.2rem;
     font-weight: 400;
@@ -76,7 +75,7 @@
 
 .calificaion{
     font-weight:1000;
-    color: var(---color9);
+    color: var(---color27);
 }
 
 .caja2_1_2{
@@ -90,7 +89,7 @@
     margin-top: 0.5rem;
     width: 75px;
     height: 0.5rem;
-    background-color: var(---color9);
+    background-color: var(---color27);
     border-radius: 20rem;
     border: none;
 }
@@ -100,11 +99,11 @@
     margin-left: -7.5rem;
     width: 5px;
     height: 0.5rem;
-    background-color:  var(---color9);
+    background-color:  var(---color27);
     border-radius: 80rem ;
-    border-color:  var(---color9);
+    border-color:  var(---color27);
     border-width: 0px;
-    box-shadow: 0 0px 3px 2px  var(---color9);
+    box-shadow: 0 0px 3px 2px  var(---color27);
 }
 
 .linea2{
@@ -112,7 +111,7 @@
     margin-left: -0.3rem;
     width: 75px;
     height: 0.5rem;
-    background-color:  white;
+    background-color: var(---color25);
     border-radius: 20rem ;
     border: none;
 
@@ -131,7 +130,7 @@
 
 .name1{
     font-size: 1.3rem;
-    color: var(---color3);
+    color: var(---color28);
     padding-right: 0.5rem;
     margin-left: 1rem;
     margin-top: 0.5rem;
@@ -140,7 +139,7 @@
 
 .signo{
     font-size: 2rem;
-    color: var(---color3);
+    color: var(---color28);
     font-weight: 400;
     margin-top: 0.1rem;
 }
@@ -158,7 +157,7 @@
 .caja3_1{
     width: 22rem;
     height: 9rem;
-    background-color: white;
+    background-color: var(---color25);
 
     border-radius: 1.5rem;
     margin-left: -1rem;
@@ -191,14 +190,15 @@
 
 .text3_11{
     margin-top:0.51rem;
-    color: var(---color3);
+    color: var(---color28);
+    font-weight: 400;
 }
 
 /*************************/
 .caja3_2{
     width: 22rem;
     height: 9rem;
-    background-color: var(---color15);
+    background-color: var(---color25);
 
     border-radius: 1.5rem;
     margin-left: 1.5rem;
@@ -231,7 +231,8 @@
 
 .text3_22{
     margin-top:0.51rem;
-    color: var(---color3);
+    color: var(---color28);
+    font-weight: 400;
 }
 
 /***************************************/
@@ -245,12 +246,13 @@
 .text_4{
     margin-left: 1.5rem;
     font-size: 1.8rem;
-    font-weight: 900;
+    font-weight: 800;
+    color: var(---color2);
 }
 
 .text_41{
     font-size: 1.3rem;
-    color: var(---color3);
+    color: var(---color28);
     padding-right: 0.5rem;
     margin-left: 20rem;
     font-weight: 400;
@@ -258,7 +260,7 @@
 
 .signo1{
     font-size: 2rem;
-    color: var(---color3);
+    color: var(---color28);
     font-weight: 400;
     margin-top: -0.4rem;
 }
@@ -296,7 +298,7 @@
 
 .text5{
     font-size: 1.3rem;
-    color: var(---color3);
+    color: var(---color28);
     padding-right: 0.5rem;
     margin-left: 1.5rem;
     font-weight: 400;
@@ -304,7 +306,7 @@
 
 .text5_1{
     font-size: 1.3rem;
-    color: var(---color3);
+    color: var(---color28);
     padding-right: 0.5rem;
     margin-left: 3.2rem;
     font-weight: 400;
@@ -312,7 +314,7 @@
 
 .text5_2{
     font-size: 1.3rem;
-    color: var(---color3);
+    color: var(---color28);
     padding-right: 0.5rem;
     margin-left: 3.1rem;
     font-weight: 400;
@@ -320,7 +322,7 @@
 
 .text5_3{
     font-size: 1.3rem;
-    color: var(---color3);
+    color: var(---color28);
     padding-right: 0.5rem;
     margin-left: 3.2rem;
     font-weight: 400;
@@ -328,7 +330,7 @@
 
 .text5_4{
     font-size: 1.3rem;
-    color: var(---color3);
+    color: var(---color28);
     padding-right: 0.5rem;
     margin-left: 3.6rem;
     font-weight: 400;
@@ -353,12 +355,12 @@
 .text61{
     font-size: 2rem;
     font-weight: 600;
-    color: var(---color23);
+    color: var(---color25);
 }
 
 .text611{
     font-size: 1.2rem;
-    color: var(---color23);
+    color: var(---color25);
     font-weight: 400;
     padding-top: 1rem;
     
@@ -366,7 +368,7 @@
 
 .textt612{
     font-size: 1.2rem;
-    color: brown;
+    color: var(---color29);
     font-weight: 800;
     margin-top: -1.6rem;
     margin-left: 10.2rem;
@@ -395,6 +397,7 @@
     margin-left: 1.5rem;
     font-size: 1.8rem;
     font-weight: 900;
+    color: var(---color2);
 }
 
 /***************************/
@@ -425,7 +428,7 @@
 
 .text8{
     font-size: 1.3rem;
-    color: var(---color18);
+    color: var(---color2);
     padding-right: 0.5rem;
     margin-left: 1.2rem;
     font-weight: 400;
@@ -433,7 +436,7 @@
 
 .text8_1{
     font-size: 1.3rem;
-    color: var(---color18);
+    color: var(---color2);
     padding-right: 0.5rem;
     margin-left: 3.2rem;
     font-weight: 400;
@@ -441,7 +444,7 @@
 
 .text8_2{
     font-size: 1.3rem;
-    color: var(---color18);
+    color: var(---color2);
     padding-right: 0.5rem;
     margin-left: 3.2rem;
     font-weight: 400;
@@ -449,7 +452,7 @@
 
 .text8_3{
     font-size: 1.3rem;
-    color: var(---color18);
+    color: var(---color2);
     padding-right: 0.5rem;
     margin-left: 3.2rem;
     font-weight: 400;
@@ -473,7 +476,7 @@
 
 .text8_4{
     font-size: 1.3rem;
-    color: var(---color18);
+    color: var(---color2);
     padding-right: 0.5rem;
     margin-left: 1.2rem;
     font-weight: 400;
@@ -481,7 +484,7 @@
 
 .text8_5{
     font-size: 1.3rem;
-    color: var(---color18);
+    color: var(---color2);
     padding-right: 0.5rem;
     margin-left: 3.2rem;
     font-weight: 400;
@@ -494,7 +497,7 @@
 }
 
 .rectangulo{
-    background-color: var(---color10);
+    background-color: var(---color26);
     width: 3.8rem;
     height: 7rem;
     margin-left: 33.7rem;
@@ -502,7 +505,7 @@
 }
 
 .circleone{
-    background-color: white;
+    background-color: var(---color25);
     width: 5rem;
     height: 5rem;
     border-radius: 3rem;
@@ -515,7 +518,7 @@
 }
 
 .circletwo{
-    background-color:#D9D9D9;
+    background-color: var(---color26);
     width: 4rem;
     height: 4rem;
     border-radius: 2rem;
@@ -543,7 +546,6 @@
     z-index: 2000;
     bottom: 0;
     border-radius: 0 0 1.5rem 1.5rem;
-
 }
 
 .iconos{
@@ -589,7 +591,7 @@
 
 .textpie{
     font-size: 1.6rem;
-    color: var(---color17);
+    color: var(---color28);
     padding-right: 0.5rem;
     margin-left: 1rem;
     font-weight: 400;
@@ -597,7 +599,7 @@
 
 .textpie1{
     font-size: 1.6rem;
-    color: var(---color17);
+    color: var(---color28);
     padding-right: 0.5rem;
     margin-left: 9.2rem;
     font-weight: 400;
@@ -605,7 +607,7 @@
 
 .textpie3{
     font-size: 1.6rem;
-    color: var(---color9);
+    color: var(---color27);
     padding-right: 0.5rem;
     margin-left: 8.2rem;
     font-weight: 500;
