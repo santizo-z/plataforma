@@ -1,12 +1,30 @@
-html {
-    max-width: 375px;
-    display: block;
-}
-
 .encabezado {
-    background-color: #ffe600;
+    background-color: var(---color21);
     display: block;
     position: relative;
+    height: 29rem;
+}
+
+header {
+    padding-top: 4rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
+}
+
+.flecha > img {
+    height: 2.3rem;
+}
+
+.flechas2 > img {
+    height: 2.3rem;
+    margin-left: 15rem;
+}
+
+.flechas3 > img {
+    height: 2.3rem;
 }
 
 .perfil {
@@ -28,19 +46,26 @@ html {
     margin-top: 2rem;
 }
 
+.perfil > .img2 {
+    margin-top: 2.5rem;
+    display: block;
+    border: 2px;
+    height: 2.3rem;
+    margin-left: auto;
+}
+
 .textos > h2 {
     font-size: 1.5rem;
 }
 
 .textos > p {
     font-size: 1.2rem;
-    color: gray;
+    color:var(---color3);
 }
 
 .nums {
     margin-top: 0.5rem;
     display: block;
-
 }
 .nums_txt {
     list-style: none;
@@ -64,15 +89,28 @@ html {
 .nums_nums > li {
     padding: 0.5rem 2.6rem;
     font-size: 1rem;
+    
 }
 
 .medio {
-    position: absolute;
     border: 2px solid black;
     display: block;
-    width: 100%;
+    width: 90%;
     border-radius: 2rem;
     height: 10rem;
+    background-color: var(---color23);
+
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: -50px;
+    margin: auto;
+}
+
+.medio > h1 {
+    display: block;
+    margin-left: 1.5rem;
+    margin-top: 1.5rem;
 }
 
 .letras {
@@ -80,9 +118,229 @@ html {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    list-style: none;
 }
 
+
+
+
 .indice {
-    margin-top: 8rem;
-    background-color: aqua;
+    display: block;
+    margin-top: 6.5rem;
+}
+
+.viñeta1 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.viñeta1 > h1 {
+    display: block;
+    color: var(---color21);
+    font-size: 2rem;
+    margin: 0rem 0rem;
+}
+
+.Cuadro1 {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 1.5rem;
+    justify-content: space-between;
+}
+
+.Cuadro1 > h3 {
+    margin: 0rem 2rem;
+    display: block;
+}
+
+.Cuadro1 > p {
+    margin: 0rem 2rem;
+    color: var(---color3);
+    font-weight: 600;
+}
+
+.viñeta2 {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 4rem;
+}
+
+.viñeta2 > h1 {
+    display: block;
+    color: var(---color21);
+    font-size: 2rem;
+    margin: 0rem 0rem;
+}
+
+.Cuadro2 {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 1.5rem;
+    justify-content: space-between;
+}
+
+.Cuadro2 > h3 {
+    margin: 0rem 2rem;
+    display: block;
+}
+
+.Cuadro2 > p {
+    margin: 0rem 2rem;
+    color: var(---color3);
+    font-weight: 600;
+}
+
+.viñeta3 {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 4rem;
+}
+
+.viñeta3 > h1 {
+    display: block;
+    color: var(---color21);
+    font-size: 2rem;
+    margin: 0rem 0rem;
+}
+
+.Cuadro3 {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 1.5rem;
+    justify-content: space-between;
+}
+
+.Cuadro3 > h3 {
+    margin: 0rem 2rem;
+    display: block;
+}
+
+.Cuadro3 > p {
+    margin: 0rem 2rem;
+    color: var(---color3);
+    font-weight: 600;
+}
+
+.viñeta4 {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 4rem;
+}
+
+.viñeta4 > h1 {
+    display: block;
+    color: var(---color21);
+    font-size: 2rem;
+    margin: 0rem 0rem;
+}
+
+.Cuadro4 {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 1.5rem;
+    justify-content: space-between;
+}
+
+.Cuadro4 > h3 {
+    margin: 0rem 2rem;
+    display: block;
+}
+
+.Cuadro4 > p {
+    margin: 0rem 2rem;
+    color: var(---color3);
+    font-weight: 600;
+}
+
+.viñeta5 {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 4rem;
+}
+
+.viñeta5 > h1 {
+    display: block;
+    color: var(---color21);
+    font-size: 2rem;
+    margin: 0rem 0rem;
+}
+
+.Cuadro5 {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 1.5rem;
+    justify-content: space-between;
+}
+
+.Cuadro5 > h3 {
+    margin: 0rem 2rem;
+    display: block;
+}
+
+.Cuadro5 > p {
+    margin: 0rem 2rem;
+    color: var(---color3);
+    font-weight: 600;
+}
+
+.viñeta6 {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 4rem;
+}
+
+.viñeta6 > h1 {
+    display: block;
+    color: var(---color21);
+    font-size: 2rem;
+    margin: 0rem 0rem;
+}
+
+.Cuadro6 {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 1.5rem;
+    justify-content: space-between;
+}
+
+.Cuadro6 > h3 {
+    margin: 0rem 2rem;
+    display: block;
+}
+
+.Cuadro6 > p {
+    margin: 0rem 2rem;
+    color: var(---color3);
+    font-weight: 600;
+}
+
+.viñeta7 {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 4rem;
+}
+
+.viñeta7 > h1 {
+    display: block;
+    color: var(---color21);
+    font-size: 2rem;
+    margin: 0rem 0rem;
+}
+
+.Cuadro7 {
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 1.5rem;
+    justify-content: space-between;
+}
+
+.Cuadro7 > h3 {
+    margin: 0rem 2rem;
+    display: block;
+}
+
+.Cuadro7 > p {
+    margin: 0rem 2rem;
+    color: var(---color3);
+    font-weight: 600;
 }
