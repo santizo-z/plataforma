@@ -1,37 +1,40 @@
 body{
     width: 10rem;
     height: 10rem;
-    background-color: rgba(242, 248, 243, 1);
+    background-color: var(---color24);
 
   
 }
 .caja1{
-    height: 20rem;
+    height: 23rem;
     width: 37.6rem;
     background-color: var(---color8);
     border-top-right-radius: 3rem;
     border-top-left-radius: 3rem;
+    
+    border-radius: 3rem;
+    
+    text-align: center;
 }
 .cabeza{
-    padding-top: 3rem;
+    padding-top: 0.9rem;
     display: flex;
     
 }
-.buscador{
-    width: 55%;
-    height: 3.8rem;
-    background-color: var(---color23) ;
-    border-radius: 3rem;
+.buscador img{
+    width: 20rem;
+    height: 6rem;
     margin-left: 2rem;
 }
 .A{
     width: 30%;
-    height: 4rem;
+    height: 6rem;
     margin-left: 1rem;
     
     display: flex;
     justify-content: space-between;
     align-items: center;
+
 }
 .A img{
     height: 2rem;
@@ -48,7 +51,8 @@ body{
     width: 8rem;
     height: 8rem;
     margin-left: 2rem;
-    margin-top: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 .perfil p{
     font-size: 2rem;
@@ -57,12 +61,313 @@ body{
     margin-top: 2rem;
     margin-left: 2rem;
 }
-footer{
-    margin-top: 50rem;
-    height: 8rem;
-    width: 37.6rem;
-    background-color: brown;
+.vip{
+    width: 90%;
+    margin-top: 1rem;
+}
+.caja2{
+    width: 32.20rem;
+    height: 11rem;    
+    margin-left: 2.8rem;
+    padding-bottom: 2rem;
+
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-around;
+    text-align: center;
+    background-color: var(---color25);
 
     border-bottom-left-radius: 2rem;
     border-bottom-right-radius: 2rem;
+}
+.opcion1 img{
+    height: 4rem;
+    width: auto;
+}
+.opcion2 img{
+    height: 4rem;
+    width: auto;
+}
+.opcion3 img{
+    height: 4rem;
+    width: auto;
+}
+.opcion4 img{
+    height: 4rem;
+    width: auto;
+}
+
+
+.caja3{
+   display: flex;
+   flex-direction: column;
+   margin-left: 2.8rem;
+
+}
+.box1{
+    background-color:var(---color25);
+    width: 32.20rem;
+    height: 11.5rem;
+    border-radius: 2rem;
+    margin-top: 2rem;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.box1 .uno{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+    padding-left: 1.7rem;
+    padding-right:1.7rem;
+}
+
+.box1 .uno p{
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+.box1 .uno a{
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: var(---color2);
+}
+
+
+.box1 .dos{
+    display: flex;
+    justify-content:flex-start;
+    align-items: center;
+    margin-top: 1.7rem;
+    padding-left: 1.7rem;
+}
+.box1 .dos p{
+    font-size: 1.5rem;
+    color:rgba(160, 167, 186);
+}
+.pestaña{
+    width: auto;
+    height: 1rem;
+    margin-left: 1rem;
+}
+.box1 .tres{
+ margin-top: 0.7rem;
+ padding-left: 1.7rem;
+}
+.box1 .tres p{
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+
+/*----------Caja dos----------*/
+.box2{
+    background-color:var(---color25);
+    width: 32.20rem;
+    height: 13.5rem;
+    border-radius: 2rem;
+    margin-top: 2rem;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.box2 .uno{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1rem;
+    padding-left: 1.7rem;
+    padding-right:1.7rem;
+}
+.box2 .uno p{
+    font-size: 1.6rem;
+    font-weight: 800;
+    color:var(---color18);
+}
+.box2 .uno a{
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: var(---color2);
+}
+
+.box2 .dos{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 1.7rem;
+    padding-right:1.7rem;
+}
+.box2 .dos p{
+    margin-top: 1rem;
+    color: var(---color28);
+    font-size: 1.5rem;
+}
+
+.box2 .tres{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 1.7rem;
+    padding-right:1.7rem;
+}
+.box2 .tres p{
+    margin-top: 1rem;
+    color: var(---color17);
+    font-size: 1.7rem;
+    font-weight: 700;
+}
+.box2 .cuatro{
+    height: 2rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.c1{
+    height: 0.7rem;
+    width: 0.7rem;
+
+
+    border-radius: 100%;
+    background-color: var(---color24);
+}
+
+.box2 .cuatro .c{
+    height: 0,5rem;
+    width: 0.5rem;
+    background-color: var(---color24);
+}
+
+/*---------Caja tres------------*/
+.box3{
+    width: 32.20rem;
+    margin-top: 2rem;
+    background-color: var(---color25);
+    padding-top: 0.5rem;
+    border-radius: 2rem;
+    display: flex;
+    justify-content: space-between
+}
+.box3 .U1{
+    margin-top: 1rem;
+    font-size: 1.7rem;
+    color: var(---color17);
+    font-weight: 600;
+}
+.box3 .uno{
+    padding-left: 1.5rem;
+    margin-right: -2rem;
+}
+.num{
+    display: flex;
+    align-items: center;
+    margin-top: 1rem;
+    
+}
+.num p{
+    text-decoration: none;
+    font-size: 1.4rem;
+    font-weight: 600;
+    color: var(---color17);
+    
+}
+.num a{
+    text-decoration: none;
+    margin-left: 2rem;
+    font-size: 1.5rem;
+    color: var(---color17);
+}
+.gris{
+    width: 80%;
+    height: auto;
+}
+.gris p{
+    font-size: 1.3rem;
+    color: var(---color28);
+}
+.num2{
+    display: flex;
+    align-items: center;
+    margin-top: -1.5rem;
+}
+.num2 p{
+    color: var(---color28);
+    font-size: 1.2rem;
+}
+.num2 .A{
+    margin-right: -3.4rem;
+    margin-left: -0.001rem;
+}
+.num2 .B{
+    color: var(---color18);
+    margin-left: -0.5rem;
+}
+.num2 .D{
+    color: var(---color8);
+    margin-left: 1rem
+}
+
+.box3 .dos{
+    width: 13.2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+.box3 .dos a{
+    text-decoration: none;
+    margin-top: 1rem;
+    margin-right: 1rem;
+    font-size: 1.5rem;
+    color: var(---color17);
+}
+.send-call{
+    width: 100%;
+    height: 45%;
+    display: flex;
+    justify-content: space-around;
+}
+.send-call img{
+    height: 4rem;
+    width: auto;
+    margin-right: 1.5rem;
+}
+
+/*--------------Footer---------------*/
+
+footer{
+    margin-top: 2rem;
+    height: 8rem;
+    width: 37.6rem;
+    background-color: var(---color25);
+
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    
+    
+}
+.superior {
+    display: flex;
+    justify-content: right;
+
+}
+.superior img{
+    width: 12%;
+    margin-right: 2rem;
+}
+.icons{
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+    
+    display: flex;
+    justify-content: space-around;
+}
+.icons img{
+    height: 2.5rem;
+    width: auto;
+}
+.personal p{
+    color: var(---color8);
 }
